@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DualServer.iml" filepath="$PROJECT_DIR$/DualServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrueInternetAndroid.iml" filepath="$PROJECT_DIR$/TrueInternetAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/truenetworkdetector/truenetworkdetector.iml" filepath="$PROJECT_DIR$/truenetworkdetector/truenetworkdetector.iml" />
     </modules>
